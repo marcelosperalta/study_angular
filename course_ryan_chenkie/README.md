@@ -16,3 +16,6 @@
 - Services  
 - HTTP, Forms, RxJS  
 
+### Angular CLI
+
+https://github.com/angular/angular-cli
