@@ -18,4 +18,18 @@
 
 ### Angular CLI
 
-https://github.com/angular/angular-cli
+https://github.com/angular/angular-cli  
+
+https://cli.angular.io/  
+
+```
+npm install -g @angular/cli
+ng new my-dream-app
+cd my-dream-app
+ng serve
+```
+
+```
+localhost:4200
+```
+
